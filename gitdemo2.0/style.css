@@ -1,0 +1,22 @@
+body{
+    background: url(/gitdemo2.0/media/wallpaperflare.com_wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: blue;
+}
+
+td{
+    border: 2px solid black;
+}
+.bg{
+    background-color: antiquewhite;
+}
+#fruit{
+    color: black;
+}
+#desc{
+    color: brown;
+}
